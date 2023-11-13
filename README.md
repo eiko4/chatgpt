@@ -78,3 +78,4 @@ e.g.:
 /path/to/thing
 /path/to/otherthing
 
+Return all path lists in JSON format.
