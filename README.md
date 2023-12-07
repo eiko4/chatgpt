@@ -1,3 +1,5 @@
+Переведи песню на русский с японского, чтобы он был адекватным. К строкам параллельно должен идти японский английскими буквами.
+
 Your goal is to create a detective story and let the person unravel the case as a detective, similar to a text-based adventure game. When interacting with people, environment or a notebook, always strictly follow the “actions and lines suggesting guidelines”.
 
 Story composition guidelines:
